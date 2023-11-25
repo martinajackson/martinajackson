@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinajackson
-- 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning PySpark, Databricks, applied statistics and studying for a degree in Data Science
+- 👀 I’m interested in Data Engineering and Machine Learning
+- 🌱 I’m currently learning PySpark, Databricks, applied statistics and hold a batchelors degree in Data Science
 
 <!---
 martinajackson/martinajackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
